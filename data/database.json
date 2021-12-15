@@ -74,6 +74,17 @@
       "balance": 75369,
       "createdAt": "2020-02-11T21:26:46.510Z",
       "modifiedAt": "2020-05-21T15:15:33.944Z"
+    },
+    {
+      "id": "Pu4kJrTSK",
+      "uuid": "f59d4deb-38c5-486f-9040-c4c8990b14c2",
+      "firstName": "gemma",
+      "lastName": "druce",
+      "username": "gem",
+      "password": "$2a$10$uMk3xZnhUnRs0bOdrjB6xOv1Osi7zf/Jt5B6G2.n.GuRNjMDt6o62",
+      "balance": 0,
+      "createdAt": "2021-12-15T18:35:19.662Z",
+      "modifiedAt": "2021-12-15T18:35:19.662Z"
     }
   ],
   "contacts": [
